@@ -1,0 +1,9 @@
+
+/* 40-2 Display Countries In A Simple Way,
+Folder Structure */
+.country{
+    border: 5px solid tomato;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
