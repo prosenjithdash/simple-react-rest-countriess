@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Country from "../Country/Country";
+import './Countries.css'
 
 const Countries = () => {
 
@@ -16,7 +17,9 @@ const Countries = () => {
     return (
         <div>
             <h2>Countries: {country.length}</h2>
-            <div>
+
+            {/* Maping daynamic data. */}
+            <div className="countries_container">
                 {
                     country.map(country => <Country key={country.cca3} country={country}></Country>)
                 }

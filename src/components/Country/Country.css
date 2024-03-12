@@ -2,7 +2,7 @@
 /* 40-2 Display Countries In A Simple Way,
 Folder Structure */
 .country{
-    border: 5px solid tomato;
+    border: 5px solid rgb(234, 21, 78);
     margin: 15px;
     padding: 15px;
     border-radius: 15px;
