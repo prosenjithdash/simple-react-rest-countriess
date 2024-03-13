@@ -5,3 +5,9 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+.flag_container img{
+    width: 150px;
+    height: 100px;
+    padding: 15px;
+   
+}

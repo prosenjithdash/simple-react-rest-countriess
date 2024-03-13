@@ -7,3 +7,27 @@ Folder Structure */
     padding: 15px;
     border-radius: 15px;
 }
+
+/* 40-5 Conditional CSS And Conditional Style */
+.visited{
+    background-color: rgb(90, 237, 90);
+}
+
+.image_width{
+    width: 360px;
+    height: 200px;
+}
+
+.visited_btn{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: rgb(1, 241, 73);
+    color: white;
+    font: bold;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 15px;
+}
